@@ -11,3 +11,5 @@ Create new job submission and job info files for Deadline by extracting details 
 Create a new Nuke file that contains a read node that points to the original frame render and two write nodes that output in the desired formats. This is done by submitting CreateNukeFile.py to the Nuke command line application.
 
 Submits the new file and the new info files to Deadline as a new render.
+
+NOTE: Needs updating for Deadline 8. Currently optmized for v. 7.
